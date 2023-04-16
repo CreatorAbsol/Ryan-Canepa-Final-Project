@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(155, 200, 227);
+    background-image: url(file:///E:/HTML%20Proj/Blurred%20Logo.png);
+    color: black;
+    margin:0;
+}
+
+h1{
+    font-style: bold;
+    font-size: 500;
+}
+
+h2{
+    position: absolute;
+    box-sizing: border-box;
+}

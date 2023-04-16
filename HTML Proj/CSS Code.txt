@@ -1,0 +1,22 @@
+The body code currently controls the background and text for the most part. 
+
+body{
+    background-color: rgb(155, 200, 227);
+    background-image: url(file:///E:/HTML%20Proj/Blurred%20Logo.png);
+    color: black;
+    margin:0;
+}
+
+The h1 code here is determining the font style for this section.
+
+h1{
+    font-style: bold;
+    font-size: 500;
+}
+
+The h2 code in this CSS page is for another piece of code for the HTML that was implemented before, but is not needed for now. Eventually, there will be a bit more
+
+h2{
+    position: absolute;
+    box-sizing: border-box;
+}
